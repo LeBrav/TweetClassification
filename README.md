@@ -1,8 +1,8 @@
 # TweetClassification
-In this project i've implemented Naïve Bayes classification algorithm on a
+In this project I've implemented Naïve Bayes classification algorithm on a
 real database. The main goal of this project is to classify if a Tweet is positive or negative.
 
-In order to do this, i implement from scratch all the reading of the dataset (csv) and the treatment of the data.
+In order to do this, I implement from scratch all the reading of the dataset (csv) and the treatment of the data.
 It will also be necessary to optimally create both the arrays and the
 dictionaries to make the prediction, apply Laplace Smoothing to eliminate indecision, and
 evaluate different model configurations.
